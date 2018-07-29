@@ -21,4 +21,37 @@ Allows us to approach a problems with little or no idea what our results should 
 
 In essence: The aim of unsupervised learning is to find clusters of similar inputs in the data without being explicitly told that some datapoints belong to one class and the other in other classes. The algorithm has to discover this similarity by itself. 
 
+# Reinforcement Learning
+Reinforcement Learning works through trial and error which actions yield the greatest rewards. For example : Computer learn to play a video game, drive a car, etc ...?
+
+
+
+# Basic machine learning process for supervised learning:
+1. Acquire data from some source
+2. Clean and Organize the data
+3. Spliting of Training and Testing data
+4. Train/Fit ML Model on Training data
+5. Evaluate ML Model on the Test data
+6. Adjust Model parametrs 
+7. Deplot the ML Model on New incoming data
+
+
+# Basic machine learning process for unpervised learning:
+1. Acquire data from some source
+2. Clean and Organize the data
+3. Create Training data
+4. Train/Fit ML Model on Training data
+5. Evaluate ML Model on the Training data
+6. Adjust Model parametrs 
+7. Deplot the ML Model on New incoming data
+
+# Hold Out Sets or Evaluation Sets
+1. Acquire data from some source
+2. Clean and Organize the data
+3. Spliting of Training, Testing and Holdout data
+4. Train/Fit ML Model on Training data
+5. Test ML Model on the Test data
+6. Adjust Model parametrs 
+7. Evaluate ML Model on Houlout data
+8. Deplot the ML Model on New incoming data
 
