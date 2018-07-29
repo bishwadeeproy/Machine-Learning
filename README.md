@@ -19,6 +19,6 @@ Supervised learning problems can be classified into "regression" and "classifica
 # Unsupervised Learning
 Allows us to approach a problems with little or no idea what our results should look like. We can drive this structure by clustering the data based on relationships among the variable in the data.
 
-In essence: The aim of unsupervised learning is to find clusters of similar inputs in the data without being explicitly told that some datapoints belong to one class and the other in other classes. The algorithm has to discover this similarity by itself.
+In essence: The aim of unsupervised learning is to find clusters of similar inputs in the data without being explicitly told that some datapoints belong to one class and the other in other classes. The algorithm has to discover this similarity by itself. 
 
 
