@@ -36,7 +36,7 @@ Reinforcement Learning works through trial and error which actions yield the gre
 7. Deplot the ML Model on New incoming data
 
 
-# Basic machine learning process for unpervised learning:
+# Basic machine learning process for unsupervised learning:
 1. Acquire data from some source
 2. Clean and Organize the data
 3. Create Training data
