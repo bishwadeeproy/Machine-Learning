@@ -52,6 +52,6 @@ Reinforcement Learning works through trial and error which actions yield the gre
 4. Train/Fit ML Model on Training data
 5. Test ML Model on the Test data
 6. Adjust Model parametrs 
-7. Evaluate ML Model on Houlout data
+7. Evaluate ML Model on Holdout data
 8. Deplot the ML Model on New incoming data
 
