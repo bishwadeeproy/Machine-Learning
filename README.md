@@ -33,7 +33,7 @@ Reinforcement Learning works through trial and error which actions yield the gre
 4. Train/Fit ML Model on Training data
 5. Evaluate ML Model on the Test data
 6. Adjust Model parametrs 
-7. Deplot the ML Model on New incoming data
+7. Deploy the ML Model on New incoming data
 
 
 # Basic machine learning process for unsupervised learning:
@@ -43,7 +43,7 @@ Reinforcement Learning works through trial and error which actions yield the gre
 4. Train/Fit ML Model on Training data
 5. Evaluate ML Model on the Training data
 6. Adjust Model parametrs 
-7. Deplot the ML Model on New incoming data
+7. Deploy the ML Model on New incoming data
 
 # Hold Out Sets or Evaluation Sets
 1. Acquire data from some source
@@ -53,5 +53,5 @@ Reinforcement Learning works through trial and error which actions yield the gre
 5. Test ML Model on the Test data
 6. Adjust Model parametrs 
 7. Evaluate ML Model on Holdout data
-8. Deplot the ML Model on New incoming data
+8. Deploy the ML Model on New incoming data
 
